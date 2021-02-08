@@ -70,6 +70,15 @@ footer nav.flexbox ul li a {
   color: var(--secondary-tcl);
 }
 
+div.btn-app-tile {
+  height: 30px;
+  width: 30px;
+  background-size: 528px 68px;
+  background-position: -132px -38px;
+  background-image: url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+  opacity: 0.55;
+}
+
 li.btn-login {
   padding: 0 12px;
   border: 1px solid #4387fd;
