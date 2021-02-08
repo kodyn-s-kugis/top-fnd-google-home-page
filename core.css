@@ -154,6 +154,12 @@ main img {
   background-color: #f8f9fa;
 }
 
+.btn-container button:hover {
+  box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+  border: 1px solid #dadce0;
+  color: #202124;
+}
+
 /* Footer */
 
 footer {
