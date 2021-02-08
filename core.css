@@ -171,15 +171,16 @@ footer {
   background-color: var(--secondary-bgd);
 }
 
-footer section {
-  margin-left: 30px;
-}
-
-footer section:first-child {
+footer div {
   border-top: 1px solid #dadce0;
   border-bottom: 1px solid #dadce0;
 }
 
+footer section {
+  margin-left: 30px;
+}
+
 footer nav {
-  padding-left: 0;
+  padding: 15px 0px;
+  margin-right: 30px;
 }
